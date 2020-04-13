@@ -1,0 +1,18 @@
+Hi All,
+
+Build 21 is now available, you should have an email from Apple (TestFlight), if not check the TestFlight App or let me know and I'll send it again,
+
+I've updated how the app gets the courses etc so check each screen to see it's all still working,
+
+I thought I'd fixed AutoPlay next but it's still causing issues for certain iOS versions so might still have to leave that out :(
+
+Any more features you'd like?
+Putting Seminars in their own section was one,
+
+Thanks,
+Alex
+
+https://www.599cd.com/apple/ios/
+https://www.599cd.com/apple/ios/beta/
+
+-- 18/11/2017 12:49 

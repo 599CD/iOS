@@ -1,0 +1,26 @@
+Hi All,
+
+Thanks for joining the iOS Beta Testers,
+
+You should receive an email from "TestFlight (no_reply@email.apple.com)" with a Subject of "TestFlight: There is an update available for 599CD TV 1.0 (x)‏".
+I originally created the App as an Apple TV app but i'm going to drop that from the name when it's released.
+
+Make sure to accept this email then it should show up in the TestFlight app and you can download it to either your iPhone or iPad.
+
+You will be asked to login, use your 599CD login. If you have an app called 1Password you can use that to find and use your password.
+
+This will use your mobile data to steam the videos from the web, in the same way as if you were just using safari.
+You can track how much in Settings | Mobile Data, turn this off if required.
+
+To Do
+I'm looking to update the images on the initial page as they are quite pixelated.
+I'm also looking at resizing the video screen depending on whether you are in Portrait or Landscape.
+
+Please let me know any comments, suggestions for changes, any features you'd like to see and anything that isn't working.
+
+Thanks
+Alex
+
+Links
+TestFlight - https://developer.apple.com/testflight/
+You can see more info at http://599cd.com/apple/ios/

@@ -1,0 +1,16 @@
+Hi All,
+
+v1.0.8 should be out soon,
+
+New
+- Autoplay
+- Themes
+- New Settings
+- Filter MyCourses
+- Tips
+
+I'm still looking at the web view scroll bar issue,
+
+Let me know how the theme switching works, at the minute you can change it in settings but you have to close and reopen the app to take effect, I need to add some notification checks
+
+Alex

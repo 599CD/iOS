@@ -1,0 +1,71 @@
+# Release Notes
+
+v1.0.21
+Fixes
+- Updates to loading
+- API updates
+
+v1.0.20
+Fixes
+- Updated Courses to autoplay without crashing
+
+v1.0.19
+Fixes
+- Course List crash on refresh
+
+v1.0.18
+Fixes
+- Searching and selecting an item goes to the correct one
+
+v1.0.17
+Fixes
+- Account Updates
+
+v1.0.16
+New
+- Redesigned Account page
+
+v1.0.15
+New
+- Play Last Video
+- Gravatar image for account
+
+v1.0.14
+Fixes
+- Removed AutoPlay
+
+v1.0.9
+Fixes
+- Glossary/Forum/Tips scrollbars at edges
+
+v.1.0.8
+- Autoplay
+- Themes
+- New Settings
+- Filter MyCourses
+- Tips
+
+v.1.0.7
+New
+- Icons (@jonathanicarlin)
+- Logout
+Fixes
+- Login
+
+v.1.0.6
+- 1Password login
+- Unlocked courses
+- Email from app
+- Filter Glossary
+- Crashlytics from Fabric
+- Settings
+
+v.1.0.5
+- Courses
+- Blog
+- Glossary
+- Forum
+
+ToDo:
+Auto play next
+Safari Login Controller

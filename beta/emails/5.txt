@@ -1,0 +1,8 @@
+Hi All,
+
+I've had to take out the AutoPlay until I can get it working with fullscreen,
+I've fixed the scroll bars on the tips/glossary/forum pages.
+
+Are there any other features people would like?
+
+Alex

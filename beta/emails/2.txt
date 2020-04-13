@@ -1,0 +1,12 @@
+Hi All,
+
+A couple of you have found that the login isn't working,
+I'm currently working on a fix and it should be out at the weekend,
+
+If you can test all other functionality,
+
+Any suggestions, feature requests etc are very welcome,
+
+Thanks again
+
+Alex

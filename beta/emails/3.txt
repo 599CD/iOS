@@ -1,0 +1,9 @@
+Hi All,
+
+Build 1.0.7 should now be available in TestFlight,
+
+This should fix the Login issue,
+
+Let me know how you get on and any improvements, features etc you'd like,
+
+Alex
